@@ -1,63 +1,63 @@
-🏋️ Gym Management App
+# 🏋️ Gym Management App
 
-An assessment project to practice C# desktop application development using SQL Server and the MVC architecture.
+An **assessment project** to practice **C# desktop application development** using **SQL Server** and the **MVC architecture**.  
 
-This project simulates a simple gym management system with features like user registration, class bookings, and attendance tracking.
+This project simulates a simple **gym management system** with features like user registration, class bookings, attendance tracking, and profile management.
 
-🏥 Purpose
+---
 
-The main goal of this project is to practice building desktop applications with C# and SQL Server, understand MVC architecture, and learn how to interact with databases.
-It was created as part of an assessment to develop practical back-end and GUI skills.
+## 🏥 Purpose
 
-✨ Key Features
+The main goal of this project is to:  
 
-User Registration & Login
+- Practice building **desktop applications** with C#  
+- Understand **MVC architecture**  
+- Learn how to **interact with databases**  
 
-Class Bookings
+Built as part of an **assessment** to develop practical back-end and GUI skills.
 
-Attendance Marking
+---
 
-Profile Management
+## ✨ Key Features
 
-🛠 Tech Stack
+- **User Registration & Login**  
+- **Class Bookings**  
+- **Attendance Marking**  
+- **Profile Management**  
 
-C# – Application logic and GUI
+---
 
-SQL Server – Database for storing users, classes, and attendance
+## 🛠 Tech Stack
 
-📌 Deployment
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="30"/>
+</p>
 
-Project hosted on GitHub (no live demo available)
+- **Application Logic & GUI:** C#  
+- **Database:** SQL Server  
 
-Desktop application; can be run locally via Visual Studio
+---
 
-🧠 What I Learned
+## 📌 Deployment
 
-Implementing MVC architecture for a desktop application
+- Project hosted on **GitHub** (no live demo available)  
+- Desktop application; can be run locally via **Visual Studio**
 
-Interacting with SQL Server database
+---
 
-Building GUI-based desktop applications with C#
+## 🧠 What I Learned
 
-Performing CRUD operations (Create, Read, Update, Delete)
+- Implementing **MVC architecture** for a desktop application  
+- Interacting with **SQL Server database**  
+- Building **GUI-based desktop applications** with C#  
+- Performing **CRUD operations** (Create, Read, Update, Delete)  
+- Managing **user workflows** like registration, bookings, and profile updates  
 
-Managing user workflows like registration, bookings, and profile updates
+---
 
-🚀 How to Run Locally
+## 🚀 How to Run Locally
 
-Clone the repository:
-
+```bash
+# Clone the repository
 git clone https://github.com/sheda3838/gym_app.git
-
-
-Open the solution file GymSample2.sln in Visual Studio
-
-Build the project
-
-Run the application and interact with registration, class bookings, and attendance
-
-📌 Notes
-
-This project is desktop-based; no web deployment is available
-
-Database connection requires SQL Server to be installed and configured
